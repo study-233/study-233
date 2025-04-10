@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm a students in USTB, majoring in CE.
+- 🌱 I’m currently learning ROS and more fun tech.
+
+### My Stats 
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=study-233&show_icons=true" alt="Andy's GitHub stats" style="display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=study-233&layout=donut" alt="Top Langs" style="display: inline-block;"/>
+</p>
