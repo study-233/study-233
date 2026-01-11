@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### My Stats 
 
 <p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study-233)](https://github.com/anuraghazra/github-readme-stats)
 </p>
