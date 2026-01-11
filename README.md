@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 ### My Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=study-233&show_icons=true" alt="Andy's GitHub stats" style="display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=study-233&layout=donut" alt="Top Langs" style="display: inline-block;"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
