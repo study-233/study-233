@@ -17,9 +17,3 @@ Here are some ideas to get you started:
 
 - 🎓 I'm a students in USTB, majoring in CE.
 - 🌱 I’m currently learning ROS and more fun tech.
-
-### My Stats 
-
-<p align="left">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study-233)](https://github.com/anuraghazra/github-readme-stats)
-</p>
